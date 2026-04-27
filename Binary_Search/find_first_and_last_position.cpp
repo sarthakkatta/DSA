@@ -8,7 +8,7 @@ Approach:
 4. Store the index whenever the target is found.
 5. Return both indices as the result.
 
-Time Complexity: O(log N)
+Time Complexity: O(log N) 
 Space Complexity: O(1)
 */
 
